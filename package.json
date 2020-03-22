@@ -1,0 +1,25 @@
+{
+    "name": "ampctrl",
+    "version": "1.0.0",
+    "description": "Amplifier Control Panel, using from Sungchan.org",
+    "main": "index.js",
+    "scripts": {
+        "run": "node index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Akisazaki/ampctrl.git"
+    },
+    "keywords": [
+        "amp",
+        "control"
+    ],
+    "author": "Hanjoon Kim",
+    "license": "MIT",
+    "bugs": "https://github.com/Akisazaki/ampctrl/issues",
+    "homepage": "https://github.com/Akisazaki/ampctrl",
+    "dependencies": {
+        "connect": "^3.7.0",
+        "serve-static": "^1.14.1"
+    }
+}

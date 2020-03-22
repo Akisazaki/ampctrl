@@ -1,0 +1,10 @@
+{
+    "uid": "ampctrl",
+    "append": true,
+    "watch": true,
+    "script": "index.js",
+    "sourceDir": "/home/administrator/node/ampctrl",
+    "logFile": "/home/administrator/node/ampctrl/f-log.log",
+    "outFile": "/home/administrator/node/ampctrl/f-out.log",
+    "errFile": "/home/administrator/node/ampctrl/f-err.log"
+}
